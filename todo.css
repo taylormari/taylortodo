@@ -18,7 +18,12 @@ ul li::before {
 
 #green::before {
 	content: "\2022";
-	color: green;
+	color: lightgreen;
+}
+
+#pink::before {
+	content: "\2022";
+	color: pink;
 }
 
 img {
